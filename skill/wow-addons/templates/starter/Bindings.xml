@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="MYADDON_TOGGLE" header="MYADDON">
+        MyAddon_Toggle()
+    </Binding>
+</Bindings>

@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+tools/_lib/bin/
+
+# Сборка схем и мусор редакторов
+.dsh/
+*.bak
+*.tmp
+Thumbs.db
+desktop.ini

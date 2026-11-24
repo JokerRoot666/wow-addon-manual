@@ -1,0 +1,13 @@
+{
+  "name": "addon-uitest",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Стенд тестов аддона на mock-клиенте (fengari)",
+  "scripts": {
+    "test": "node check.js && node run.js"
+  },
+  "dependencies": {
+    "fengari": "^0.1.4",
+    "luaparse": "^0.3.1"
+  }
+}

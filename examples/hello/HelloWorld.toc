@@ -1,0 +1,11 @@
+## Interface: 120105
+## Title: Hello World
+## Title-ruRU: Привет, мир
+## Notes: Минимальный аддон: события, слэш-команда, сохранение счётчика
+## Notes-ruRU: Минимальный аддон: события, слэш-команда, сохранение счётчика
+## Author: intern
+## Version: 1.0.0
+## SavedVariables: HelloWorldDB
+## IconTexture: Interface\Icons\INV_Misc_QuestionMark
+
+HelloWorld.lua

@@ -1,0 +1,16 @@
+## Interface: 120105
+## Title: My Addon
+## Title-ruRU: Мой аддон
+## Notes: Минимальный рабочий аддон-шаблон
+## Notes-ruRU: Минимальный рабочий аддон-шаблон
+## Author: me
+## Version: 1.0.0
+## SavedVariables: MyAddonDB
+## SavedVariablesPerCharacter: MyAddonCharDB
+## IconTexture: Interface\Icons\INV_Misc_QuestionMark
+
+Locale.lua
+Locale_en.lua
+Core.lua
+UI.lua
+Bindings.xml
